@@ -181,6 +181,16 @@ font-weight: 700;
 	
 }
 
+.section-title h3, .section-title h4 {
+	color: #4c4c4c;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	display: inline-block;
+	margin-top: 0;
+	padding: 8px 0;
+	
+}
+
 .section-overlay {
 	background: rgba(0, 0, 0, .7) !important;
 	z-index: 5;
